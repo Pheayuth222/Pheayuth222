@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pheayuth222
 - 👀 I’m interested in Web Development, Java, iOS, and Spring.
-- 🌱 I’m currently learning iOS Mobile Developer at HRD Center.
+- 🌱 I’m currently working as iOS Mobile Developer at KOSIGN Company in Phnom Penh, Cambodia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
