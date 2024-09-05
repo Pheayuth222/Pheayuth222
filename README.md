@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### 🤝 Get In Touch with me
+### 🤝 Connect with me
 
 <div align="left" >
   <a href="https://www.linkedin.com/in/yen-pheayuth-86a653196/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=25></a>
@@ -16,10 +16,9 @@
   <a href="https://www.instagram.com/yuth_fight/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </div>
 
-##
 
 ## 🛠 Language and tools
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -40,9 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-
 ##
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -64,8 +61,13 @@
   <l>if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</l><br><br>
   <a href="https://buymeacoffee.com/yenpheayutt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
-  
----
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
+
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=YuthFight&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
