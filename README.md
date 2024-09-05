@@ -58,10 +58,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuyleangIng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YuthFight&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
