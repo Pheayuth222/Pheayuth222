@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @Pheayuth222</h2>
+<h2> 👋 Hi, I’m @Pheayuth, (Nickname: Yuth Fight</h2>
 
 ####
 - 👀 I’m interested in Web Development, Java, iOS, and Spring.
