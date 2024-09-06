@@ -80,7 +80,7 @@
 
 ```swift
 
-print("Hello Word 😁")
+print("Hello World 😁")
     
 ```
 <div align="center">
