@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m @Pheayuth, (Nickname: Yuth Fight)</h2>
 
 ####
-- 👀 I’m interested in Web Development, Java, iOS, and Spring.
+- 👀 I’m interested in iOS, Web Development, Java, and Spring.
 - 🌱 I’m currently working as iOS Mobile Developer at KOSIGN Company in Phnom Penh, Cambodia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
