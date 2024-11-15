@@ -2,7 +2,7 @@
 
 ####
 - 👀 I’m interested in iOS, Web Development, Java, and Spring.
-- 🌱 I’m currently working as iOS Mobile Developer at KOSIGN Company in Phnom Penh, Cambodia.
+- 🌱  iOS Developer | Mobile developer | Swift | UIKit | SwiftUI | iOS App
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
